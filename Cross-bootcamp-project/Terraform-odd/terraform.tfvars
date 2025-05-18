@@ -1,4 +1,4 @@
-subscription_id     = "1ef65f49-52e6-4f8d-84ec-4187de203adc" #use your subsctiption Id
+subscription_id     = "use your subsctiption Id" 
 resource_group_name = "opneData-rg"
 location            = "norwayeast"
 #======================= varibales for Vnet modules =======================
